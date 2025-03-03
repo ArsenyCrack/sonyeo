@@ -642,7 +642,7 @@ a {
     position: relative;
     min-height: 800px;
     padding: 40px 0;
-    background-color: #504B4D;
+    background-color: #1a1a1a;
 }
 
 
@@ -706,7 +706,7 @@ a {
     position: relative;
     min-height: 800px;
     padding: 40px 0;
-    background-color: #B04836;
+    background-color: #f2e8c9;
 }
 
 .industry__content {
@@ -757,7 +757,7 @@ a {
 .footer {
     min-height: 200px;
     padding: 50px 0;
-    background-color: #262626;
+    background-color: #1a1a1a;
 }
 
 .footer__title {
