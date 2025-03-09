@@ -26,7 +26,7 @@ a {
 }
 
 .logo {
-    width: 8%;
+    max-width: 5%;
     height: auto;
 }
 
